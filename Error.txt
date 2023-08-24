@@ -1,1 +1,3 @@
-hola
+
+Esta corrección se efectua para unnuevo lanzamiento de una vesion mas 
+estable, dentro de la rama release, que es derivada de la rama develop
